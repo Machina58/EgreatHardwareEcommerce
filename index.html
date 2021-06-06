@@ -1,4 +1,4 @@
-
+    
 
 
 <!doctype html>
@@ -192,7 +192,6 @@
         <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
     </ol>
     <div class="carousel-inner" >
-        <div class="moving-clouds" style="background-image: url('./assets/img/clouds.png'); "></div>
             <div class="carousel-item active">
             <a href="#">
                 <img class="d-block w-100" src="assets/img/Eksis1.jpg" alt="First slide"></a>
@@ -368,33 +367,61 @@
 
 
     <!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
-
 <div id="CONTACT" class="tabcontent">
-<div class="container1">  
-  <form id="contact" action="" method="post">
-    <h3>Quick Contact</h3>
-    <h4>Contact us today, and get reply with in 24 hours!</h4>
-    <fieldset>
-      <input placeholder="Your name" type="text" tabindex="1" required autofocus>
-    </fieldset>
-    <fieldset>
-      <input placeholder="Your Email Address" type="email" tabindex="2" required>
-    </fieldset>
-    <fieldset>
-      <input placeholder="Your Phone Number" type="tel" tabindex="3" required>
-    </fieldset>
-    <fieldset>
-      <input placeholder="Your Web Site starts with http://" type="url" tabindex="4" required>
-    </fieldset>
-    <fieldset>
-      <textarea placeholder="Type your Message Here...." tabindex="5" required></textarea>
-    </fieldset>
-    <fieldset>
-      <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
-    </fieldset>
-  </form>
- 
-  
+    <div style="padding-top: 40px; " class="container-form" id="container-form">
+   <div class="container-con title-brand1" id="container-con">
+    <div class="form-container contact-container">
+        <form class="formc">
+            <h1>Contact Us</h1>
+            
+            <div class="social-container">
+                <a href="#" class="social"><i class="fab fa-whatsapp"></i></a>
+                <a href="#" class="social"><i class="fab fa-facebook-f"></i></a>
+                <a href="#" class="social"><i class="fab fa-instagram"></i></a>
+            </div>
+            <div class="info">
+                <div class="inline">
+            <i class="fas fa-envelope-square"></i>
+            <h4>Egreathardware@gmail.com</h4>
+                </div>
+                <div class="inline">
+            <i class="fas fa-phone-square-alt"></i>
+                    <h4> +62 811 7090 123 </h4>
+                </div>
+        </form>
+            </div>
+    </div>
+    <div class="form-container inquiry-container">
+        <form action="#" class="formc">
+            <h1>Send us Inquiry</h1>
+            <span>We will reply to you under 24 Hours!</span>
+            <input type="text" placeholder="Company Name" />
+            <input type="text" placeholder="Name" />
+            <input type="email" placeholder="Email" />
+            <input type="text" placeholder="Type your Message Here..." />
+
+            <button class="buttonc" style="margin-top: 20px;">Submit</button>
+        </form>
+    </div>
+    <div class="overlay-container">
+        <div class="overlay">
+            <div class="overlay-panel overlay-left">
+                <h1>Find Us On</h1>
+                <div class="social-container">
+                <a href="#" class="social"><i class="fab fa-whatsapp"></i></a>
+                <a href="#" class="social"><i class="fab fa-facebook-f"></i></a>
+                <a href="#" class="social"><i class="fab fa-instagram"></i></a>
+            </div>
+                <span> Or Send us Inquiry</s>
+                <button class="ghost buttonc" id="inquiryList">Send Inquiry</button>
+            </div>
+            <div class="overlay-panel overlay-right">
+                <h1 style="margin-bottom: 10px;">Discuss with us!</h1>
+                <button class="ghost buttonc" id="contactList">Our Contact</button>
+            </div>
+        </div>
+    </div>
+</div>
 </div>
     </div>
     <!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
@@ -425,6 +452,17 @@ function tabContents(tabName,elmnt,color) {
   elmnt.style.backgroundColor = color;
 
 }
+const signUpButton = document.getElementById('contactList');
+const signInButton = document.getElementById('inquiryList');
+const container = document.getElementById('container-con');
+
+signUpButton.addEventListener('click', () => {
+    container.classList.add("right-panel-active");
+});
+
+signInButton.addEventListener('click', () => {
+    container.classList.remove("right-panel-active");
+});
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
 </script>
