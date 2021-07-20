@@ -6129,14 +6129,14 @@ body{
 
 #CONTACT {
   box-sizing: border-box;
-  background: #f6f5f7;
+  background: #181818;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
   font-family: 'Montserrat', sans-serif;
   height: 100vh;
-  margin: -20px 0 50px;
+  margin-bottom: 0;
 }
 
 
@@ -6526,7 +6526,9 @@ input {
 }
 
 
-
+.tabb button{
+  width:33.33%;
+}
 }
 
 a,
