@@ -130,3 +130,5 @@ class BrandData extends React.Component {
         )
     }
 };
+
+ReactDOM.render(<BrandData/>,document.querySelector('.brand-data'))

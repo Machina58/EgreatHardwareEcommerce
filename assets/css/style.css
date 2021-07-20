@@ -198,7 +198,7 @@ fieldset[disabled] .btn.active {
 
 .media .media-body .media-footer .btn-neutral {
   margin: 15px 3px;
-  font-size: 14px;
+  font-size: 30px;
 }
 
 .media .media-body .media-footer .btn-neutral i {
@@ -2186,12 +2186,11 @@ License - nucleoapp.com/license/
   margin: 3px 8px -8px;
   padding: 10px 15px;
   opacity: .8;
-  font-size: 14px;
+  font-size: 18px;
   text-transform: uppercase;
   font-weight: 600;
   color: #ffd20a;
 }
-
 .navbar .navbar-nav .nav-item .nav-link p {
   margin: 0px 0px;
   text-transform: uppercase;
@@ -3372,7 +3371,9 @@ License - nucleoapp.com/license/
 .section-dark .icons-container {
   color: #FFFFFF;
 }
-
+.section-dark{
+  color: #181818;
+}
 .info .icon {
   margin-top: 0;
   font-size: 3.4em;
@@ -4504,7 +4505,8 @@ caurosel
 }
 
 .presentation-subtitle {
-  font-size: 1.7em;
+  font-size: 25px;
+  padding-top: 10px;
   color: #FFFFFF;
 }
 
@@ -6051,6 +6053,8 @@ body{
 
 .productlist{
   padding-top: 30px;
+  padding-left: 100px;
+  font-size: 20px;
 }
 .product-filter {
   display: flex;
@@ -6503,17 +6507,13 @@ input {
 {
   background-color:#3b5998
 }
-.social-icons a.twitter:hover
+.social-icons a.instagram:hover
 {
-  background-color:#00aced
+  background-color:#c32aa3
 }
-.social-icons a.linkedin:hover
+.social-icons a.whatsapp:hover
 {
-  background-color:#007bb6
-}
-.social-icons a.dribbble:hover
-{
-  background-color:#ea4c89
+  background-color:#128C7E
 }
 @media (max-width:767px)
 {
@@ -6536,34 +6536,52 @@ a,
 }
 
 .section-products {
-    padding: 50px 0 54px;
+  height: 100%;
     border-top: solid 15px #181818;
     border-bottom: solid 15px #181818;
     ;
+    width: 100%;
 }
 
 
 
 .categories{
-  padding: 20px 50px 20px 30px;
+  
+  margin-right: 30px; 
+  left: 500;
   background-color: rgb(229, 9, 20);
   color: white;
-  margin-bottom: 40px;
+  width: 20%;
 
   font-display: block;
 }
 .categories h1{
-  padding-top: 0px;
+  margin: 0px;
+  padding-top: 10px;
+  background-color: #181818;
   padding-bottom: 10px;
   font-weight: bold;
-  vertical-align: top;
+  text-align: center;
 }
+.categories h2{
+  padding-top: 10px;
+  background-color: #181818;
+  padding-bottom: 10px;
+  font-weight: bold;
+  text-align: center;
+  margin: 0px;
+}
+
 .categories a {
   list-style-type: none;
   text-decoration: none;
   display: block;
   font-size: 30px;
   color: white;
+}
+
+.categories a:hover{
+  background-color: #282828;
 }
 
 
