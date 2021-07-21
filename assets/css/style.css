@@ -977,7 +977,7 @@ textarea.form-control {
 
 body {
   color: #66615b;
-  font-size: 14px;
+  font-size: 12px;
   font-family: 'Montserrat', "Helvetica", Arial, sans-serif;
 }
 
@@ -2152,7 +2152,7 @@ License - nucleoapp.com/license/
 
 .navbar {
   border: 0;
-  font-size: 14px;
+  font-size: 12px;
   transition: all 0.4s;
   -webkit-transition: all 0.4s;
   padding: 0;
@@ -2186,7 +2186,6 @@ License - nucleoapp.com/license/
   margin: 3px 8px -8px;
   padding: 10px 15px;
   opacity: .8;
-  font-size: 18px;
   text-transform: uppercase;
   font-weight: 600;
   color: #ffd20a;
@@ -2257,7 +2256,7 @@ License - nucleoapp.com/license/
 }
 
 .navbar .btn i {
-  font-size: 14px;
+  font-size: 12px;
   position: relative;
   top: 2px;
 }
@@ -2286,6 +2285,7 @@ License - nucleoapp.com/license/
 
 .navbar.navbar-transparent .navbar-nav .nav-item .nav-link {
   color: #FFFFFF;
+  font-size: 12px;
 }
 
 .navbar.navbar-transparent .navbar-toggler .navbar-toggler-bar {
@@ -6025,7 +6025,7 @@ body{
   cursor: pointer;
   padding: 14px 30px;
   font-size: 20px;
-  width: 25%;
+  width: 33.3%;
  font-family: "Montserrat", "Helvetica", Arial, sans-serif;
  font-weight: 600;
   : }
@@ -6053,7 +6053,6 @@ body{
 
 .productlist{
   padding-top: 30px;
-  padding-left: 100px;
   font-size: 20px;
 }
 .product-filter {
@@ -6564,6 +6563,7 @@ a,
   padding-bottom: 10px;
   font-weight: bold;
   text-align: center;
+  font-size: 20px;
 }
 .categories h2{
   padding-top: 10px;
@@ -6571,14 +6571,14 @@ a,
   padding-bottom: 10px;
   font-weight: bold;
   text-align: center;
+  font-size: 20px;
   margin: 0px;
 }
-
 .categories a {
   list-style-type: none;
   text-decoration: none;
   display: block;
-  font-size: 30px;
+  font-size: 18px;
   color: white;
 }
 

@@ -5,7 +5,7 @@ h1 {
     vertical-align: middle;
     margin-top: 300px;
     font-weight: bold;
-    width: 50%;
+    width: 60%;
     overflow: hidden; /* Ensures the content is not revealed until the animation */
     border-right: .15em solid orange; /* The typwriter cursor */
     white-space: nowrap; /* Keeps the content on a single line */
@@ -19,7 +19,7 @@ h1 {
   /* The typing effect */
   @keyframes typing {
     from { width: 0 }
-    to { width: 100% }
+    to { width: 60% }
   }
   
   /* The typewriter cursor effect */
