@@ -29,8 +29,9 @@ class Product extends React.Component {
           <SearchBox searchChange={this.onSearchChange}/>
           <Scroll>
             <CardList robots={filteredRobots} />
-          </Scroll>
-        </div>
+
+          </Scroll>    
+           </div>
       );
   }
 }
