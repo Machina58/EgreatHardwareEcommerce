@@ -1,16 +1,16 @@
-const CardList = ({ robots }) => {
+const CardList = ({ products }) => {
   return (
-    <div>
+    <div className="products">
       {
-        robots.map((user, i) => {
+        products.map((user, i) => {
           return (
             <div className='product'>
 
             <Card
               key={i}
-              id={robots[i].id}
-              name={robots[i].name}
-              email={robots[i].email}
+              id={products[i].id}
+              name={products[i].name}
+              email={products[i].email}
               />
               </div>
           );

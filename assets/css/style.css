@@ -6023,8 +6023,8 @@ body{
   border: none;
   outline: none;
   cursor: pointer;
-  padding: 14px 30px;
-  font-size: 16px;
+  padding: 10px;
+  font-size: 12px;
   width: 33.3%;
  font-family: "Montserrat", "Helvetica", Arial, sans-serif;
  font-weight: 600;
@@ -6051,6 +6051,11 @@ body{
 
 /* Product List */
 
+.products{
+  display: flex;
+  flex-wrap: wrap;
+
+}
 
  .product-data{
   width: 98%  ;
@@ -6058,8 +6063,6 @@ body{
 .scroll{
   overflow: scroll;
   height: 1700px;
-  display: flex;
-   flex-wrap: wrap;
     width: 100%;
    
 }
@@ -6072,10 +6075,10 @@ body{
   display:flex;
 }
 .product-card {
-    width: 380px;
-    height: 550px;
+    width: 230px;
+    height: 430px;
     box-shadow: 0 2px 7px #dfdfdf;
-    margin: 20px;
+    margin: 10px;
     background: #fafafa;
 }
 
@@ -6096,7 +6099,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 300px;
+    height: 200px;
     padding: 10px;
     background: #f0f0f0;
 }
@@ -6107,7 +6110,13 @@ body{
 }
 
 .product-details {
-    padding: 30px;
+    padding: 5px;
+}
+
+.product-details h2{
+  font-size: 18px;
+  text-align: center;
+  font-weight: 600;
 }
 
 .product-catagory {
@@ -6116,7 +6125,7 @@ body{
     font-weight: 700;
     text-transform: uppercase;
     color: #ccc;
-    margin-bottom: 18px;
+    margin-bottom: 5px;
 }
 
 .product-details h4 a {
@@ -6134,6 +6143,8 @@ body{
 }
 
 .product-details p {
+     flex-wrap: wrap;
+    word-wrap: break-word;
     font-size: 15px;
     line-height: 22px;
     margin-bottom: 18px;
@@ -6143,14 +6154,18 @@ body{
 .product-bottom-details {
     overflow: hidden;
     border-top: 1px solid #eee;
-    padding-top: 20px;
+    margin-top: 65px;
+    display: flex;
+    align-items: flex-end;
 }
 
 .product-bottom-details div {
     float: left;
     width: 50%;
 }
-
+.product-top-details{
+  height: 80px;
+}
 .product-price {
     font-size: 18px;
     color: #fbb72c;
@@ -6167,6 +6182,7 @@ body{
 
 .product-links {
     text-align: right;
+    padding-right: 8px;
 }
 
 .product-links a {
