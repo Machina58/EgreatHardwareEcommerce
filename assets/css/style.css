@@ -1425,6 +1425,10 @@ License - nucleoapp.com/license/
   -o-transform: rotate(270deg);
   transform: rotate(270deg);
 }
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+}
 
 .nc-icon.flip-y {
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=0);
@@ -3231,6 +3235,9 @@ License - nucleoapp.com/license/
   border-top: 0 none;
 }
 
+.right{
+  text-align: right;  
+}
 .modal-footer .left-side,
 .modal-footer .right-side {
   display: inline-block;
@@ -6095,7 +6102,10 @@ body{
     padding: 3px 10px;
 }
 
-.product-tumb {
+.productimages{
+  width: 200px;
+}
+.product-thumb {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -6154,7 +6164,7 @@ body{
 .product-bottom-details {
     overflow: hidden;
     border-top: 1px solid #eee;
-    margin-top: 65px;
+    margin-top: 45px;
     display: flex;
     align-items: flex-end;
 }
