@@ -6164,7 +6164,7 @@ body{
 .product-bottom-details {
     overflow: hidden;
     border-top: 1px solid #eee;
-    margin-top: 45px;
+    margin-top: 60px;
     display: flex;
     align-items: flex-end;
 }
@@ -6202,11 +6202,18 @@ body{
     transition: 0.3s;
     font-size: 17px;
 }
-
+.product-category-map{
+  padding-top: 10px  ;
+  font-size: 15   px;
+  font-weight: 600;
+}
 .product-links a:hover {
     color: #fbb72c;
 }
-
+.brand{
+  text-align: center;
+  font-weight: 500;
+}
 /* CONTACT US */
 
 
