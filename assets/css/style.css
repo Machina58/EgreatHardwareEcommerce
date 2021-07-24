@@ -6644,9 +6644,12 @@ a,
     width: 100%;
 }
 
-
+.category-sub{
+  padding-top: 20 px;
+}
 
 .categories{
+  padding-top: 40px;
   position: relative;
   text-align: center;
   margin-right: 10px; 

@@ -2,7 +2,7 @@ const Category = ({ categoryfield, categoryChange }) => {
 
     return (
         <div className="categories" >
-                <h1>Category</h1>
+                <h1 className="category-sub">Category</h1>
                 <select className="selectpanel" onChange={categoryChange}>
                 <option selected="selected" value="">Select Category</option>
                 <option value="Safety Shoes">Safety Shoes</option>
