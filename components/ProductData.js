@@ -8,9 +8,9 @@ class Product extends React.Component {
   }
 
   componentDidMount() {
-    fetch('https://jsonplaceholder.typicode.com/users')
+    fetch('../data/productdata.json')
       .then(response=> response.json())
-      .then(users => {this.setState({ products: users})});
+      .then(productlist => {this.setState({ products: productlist})});
   }
 
   onSearchChange = (event) => {
@@ -20,7 +20,7 @@ class Product extends React.Component {
   render() {
     const { products, searchfield } = this.state;
     const filteredProducts = products.filter(products =>{
-      return products.name.toLowerCase().includes(searchfield.toLowerCase());
+      return products.product_name.toLowerCase().includes(searchfield.toLowerCase());
     })
     return !products.length ?
       <h1>Loading</h1> :
