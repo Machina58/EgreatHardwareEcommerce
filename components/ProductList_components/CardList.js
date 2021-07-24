@@ -2,6 +2,7 @@ const CardList = ({ products }) => {
   return (
     <div className="products">
       {
+        
         products.map((user, i) => {
           return (
             <div className='product'>

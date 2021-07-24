@@ -1,13 +1,12 @@
 
-const SearchBox = ({ searchfield, searchChange }) => {
+const CategoryName = ({ categoryfield, categoryChange }) => {
   return (
-    <div className='pa2' id="demo">
+    <div className='categoryLine'>
       <input
         className='pa3 ba b--green bg-lightest-blue'
         type='search'
         placeholder='search products'
-        onChange={searchChange}
-        
+        onChange={categoryChange}
       />
     </div>
   );

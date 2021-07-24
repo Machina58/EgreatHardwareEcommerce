@@ -17,12 +17,14 @@ class Product extends React.Component {
     this.setState({ searchfield: event.target.value })
   }
 
-
   render() {
     const { products, searchfield } = this.state;
+    if (this.onSearchChange=''){
 
+      
+    }
     let filteredProducts = products.filter(products =>{
-      return products.product_name.toLowerCase().includes(searchfield.toLowerCase());
+      return products.category.toLowerCase().includes(searchfield.toLowerCase());
     })
     return !products.length ?
       <h1>Loading</h1> :
