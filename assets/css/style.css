@@ -1425,9 +1425,12 @@ License - nucleoapp.com/license/
   -o-transform: rotate(270deg);
   transform: rotate(270deg);
 }
+.width100{
+  width: 100%;
+}
 .flex{
   display: flex;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
 }
 
 .nc-icon.flip-y {
@@ -6063,9 +6066,11 @@ body{
   flex-wrap: wrap;
 
 }
-
+.pa2{
+  width: 98%;
+}
  .product-data{
-  width: 98%  ;
+  width: 100%;
 }
 .scroll{
   overflow: scroll;
@@ -6642,7 +6647,8 @@ a,
 
 
 .categories{
-  
+  position: relative;
+  text-align: center;
   margin-right: 10px; 
   background-color: rgb(229, 9, 20);
   color: white;
@@ -6668,15 +6674,8 @@ a,
   font-size: 20px;
   margin: 0px;
 }
-.categories a {
-  list-style-type: none;
-  text-decoration: none;
-  display: block;
-  font-size: 18px;
-  color: white;
-}
-
-.categories a:hover{
-  background-color: #282828;
+.selectpanel{
+  width: 90%;
+  height: 40px;
 }
 

@@ -3,7 +3,9 @@ class Product extends React.Component {
     super()
     this.state = {
       products: [],
-      searchfield: ''
+      searchfield: '',
+      categoryfield: ''
+
     }
   }
 
@@ -16,22 +18,37 @@ class Product extends React.Component {
   onSearchChange = (event) => {
     this.setState({ searchfield: event.target.value })
   }
-
+  onCategoryChange = (event) => {
+    this.setState({ categoryfield: event.target.value })
+  }
+  
 
   render() {
-    const { products, searchfield } = this.state;
+    
+    const { products, searchfield, categoryfield } = this.state;
+    let categoryName = '';
 
-    let filteredProducts = products.filter(products =>{
-      return products.product_name.toLowerCase().includes(searchfield.toLowerCase());
+    let categoryfilteredProducts = products.filter(products =>{
+      return products.category.includes(categoryfield);
+    })
+
+    let filteredProducts = categoryfilteredProducts.filter(categoryfilteredProducts =>{
+      return categoryfilteredProducts.product_name.toLowerCase().includes(searchfield.toLowerCase());
     })
     return !products.length ?
       <h1>Loading</h1> :
       (
-        <div className='tc'>
+        <div className="section-products">
+        <div className="flex">
+        <Category categoryChange={this.onCategoryChange}/>
+        <div className='width100'>
+          
           <SearchBox searchChange={this.onSearchChange}/>
           <Scroll>
-            <CardList products={filteredProducts} />
+            <CardList products={filteredProducts} />  
           </Scroll>    
+           </div>
+           </div>
            </div>
       );
   }
