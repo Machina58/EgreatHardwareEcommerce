@@ -54,7 +54,7 @@
 		"product_name":"Jumper S3",
 		"brand":"Safety Jogger",
 		"category":"Safety Shoes",
-		"description":"Sole: PU/PU, Midsole: Puncture Resistant SJ FLEX, Insole: Premoulded, Toecap: Composite",
+		"description":"Sole: PU/PU, Midsole: Puncture Resistant, Insole: Premoulded, Toecap: Composite",
 		"pricebefore":"680.000",
 		"price":"495.000",
 		"thumb": "safetyshoes/jumper"
@@ -62,7 +62,7 @@
 	{
 		"id":7,
 		"product_name":"Speedy S3",
-		"description":"Sole : PU/Rubber, Toecap : Composite Cap, Midsole : Anti Preforation SJ FLEX, Lining : Mesh",
+		"description":"Sole : PU/Rubber, Toecap : Composite Cap, Midsole : Anti Preforation SJ FLEX",
 		"brand":"Safety Jogger",
 		"category":"Safety Shoes",
 		"price":"707.000",
@@ -71,7 +71,7 @@
 	{
 		"id":8,
 		"product_name":"Turbo S3",
-		"description":"Sole : PU/Rubber, Toecap : Composite Cap, Midsole : Anti Preforation SJ FLEX, Lining : Mesh",
+		"description":"Sole : PU/Rubber, Toecap : Composite Cap, Midsole : Anti Preforation SJ FLEX",
 		"brand":"Safety Jogger",
 		"category":"Safety Shoes",
 		"pricebefore":"790.000",
@@ -81,7 +81,7 @@
 	{
 		"id":9,
 		"product_name":"Xplore S3",
-		"description":"Sole : PU/Rubber, Toecap : Composite Cap, Midsole : Puncture resistant SJ FLEX, Lining : Mesh Nylon",
+		"description":"Sole : PU/Rubber, Toecap : Composite Cap, Midsole : Puncture resistant SJ FLEX",
 		"brand":"Safety Jogger",
 		"category":"Safety Shoes",
 		"pricebefore":"750.000",
@@ -121,7 +121,7 @@
 	{
 		"id":13,
 		"product_name":"Aura S3 ESD",
-		"description":"Sole : PU/PU, Midsole : Puncture Resistant SJ Flex, Insole : Soft Impact Foam, Toecap : Composite",
+		"description":"Sole : PU/PU, Midsole : Puncture Resistant SJ Flex, Insole : Soft Impact Foam",
 		"brand":"Safety Jogger",
 		"category":"Safety Shoes",
 		"pricebefore":"635.000",

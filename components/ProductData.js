@@ -43,7 +43,7 @@ class Product extends React.Component {
       return brandfilteredProducts.product_name.toLowerCase().includes(searchfield.toLowerCase());
     })
     return !products.length ?
-      <h1>Loading</h1> :
+      <h1 className="loading">Loading</h1> :
       (
         <div className="section-products">
         <div className="flex">
