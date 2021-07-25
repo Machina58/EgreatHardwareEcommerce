@@ -1,4 +1,5 @@
 const Card = ({ id, product_name, brand, category, description, pricebefore, price, thumb }) => {
+  let Caa=`https://api.whatsapp.com/send?phone=628117090123&text=**DO%20NOT%20MODIFY**%20Item%20Product:%20${product_name},%20Price:%20${price},%20Category:%20${category}`;
   return (
     <div className='product-card'>
       		<div className="badge">Hot</div>
@@ -16,7 +17,7 @@ const Card = ({ id, product_name, brand, category, description, pricebefore, pri
           <div className="product-price"><small>{pricebefore}</small>{price}</div>
 				<div className="product-links">
 					<a href=""><i className="fa fa-heart"></i></a>
-					<a href=""><i className="fa fa-shopping-cart"></i></a>
+					<a href={Caa}><i className="fab fa-whatsapp"/></a>
 				</div>
         </div>
       </div>
