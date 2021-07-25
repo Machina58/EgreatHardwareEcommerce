@@ -6074,7 +6074,7 @@ body{
 }
 .scroll{
   overflow: scroll;
-  height: 1700px;
+  height: 920px;
     width: 100%;
    
 }
@@ -6106,7 +6106,13 @@ body{
     color: #fff;
     padding: 3px 10px;
 }
-
+.panel{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.selectpanel{
+  margin-top: 10px;
+}
 .productimages{
   width: 200px;
 }
@@ -6182,6 +6188,7 @@ body{
   height: 80px;
 }
 .product-price {
+    width: 80%;
     font-size: 18px;
     color: #fbb72c;
     font-weight: 600;
@@ -6196,6 +6203,7 @@ body{
 }
 
 .product-links {
+  width: 30%;
     text-align: right;
     padding-right: 8px;
 }

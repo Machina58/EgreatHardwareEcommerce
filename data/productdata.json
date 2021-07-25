@@ -4,90 +4,89 @@
 		"product_name":"Bestfit S1P",
 		"brand":"Safety Jogger",
 		"category":"Safety Shoes",
-		"description":"Toecap : Composite, Midsole: PU",
+		"description":"Toecap : Steel, Midsole : Steel, Lining : Cambrella",
 		"pricebefore":"570.000",
-		"price":"460.000",
-		"thumb": "bestfit"
+		"price":"394.000",
+		"thumb": "safetyshoes/bestfit"
 	},
 	{
 		"id":2,
 		"product_name":"Dakar Brown S3",
 		"brand":"Safety Jogger",
 		"category":"Safety Shoes",
-		"description":"Toecap : Composite, Midsole: PU",
+		"description":"Sole : PU/PU, Toecap : Steel, Midsole : Steel",
 		"pricebefore":"590.000",
-		"price":"420.000",
-		"thumb": "dakarbrown"
+		"price":"510.000",
+		"thumb": "safetyshoes/dakarbrown"
 	},
 	{
 		"id":3,
 		"product_name":"Desert Multi S1P",
 		"brand":"Safety Jogger",
 		"category":"Safety Shoes",
-		"description":"Toecap : Composite, Midsole: PU",
+		"description":"Sole: PU/PU, Toecap: Steel, Midsole: Steel",
 		"pricebefore":"400.000",
-		"price":"380.000",
-		"thumb": "desertmulti"
+		"price":"394.000",
+		"thumb": "safetyshoes/desertmulti"
 	},
 	{
 		"id":4,
 		"product_name":"Desert Sand S1P",
 		"brand":"Safety Jogger",
 		"category":"Safety Shoes",
-		"description":"Toecap : Composite, Midsole: PU",
+		"description":"Sole: PU/PU, Toecap: Steel, Midsole: Steel",
 		"pricebefore":"400.000",
-		"price":"380.000",
-		"thumb": "desertsand"
+		"price":"394.000",
+		"thumb": "safetyshoes/desertsand"
 	},
 	{
 		"id":5,
 		"product_name":"Eos S3 ESD",
 		"brand":"Safety Jogger",
 		"category":"Safety Shoes",
-		"description":"Toecap : Composite, Midsole: PU",
+		"description":"Sole:PU/PU, Midsole:Puncture Resistant SJ Flex, Toecap: Composite",
 		"pricebefore":"550.000",
-		"price":"420.000",
-		"thumb": "eos"
+		"price":"480.500",
+		"thumb": "safetyshoes/eos"
 	},
 	{
 		"id":6,
 		"product_name":"Jumper S3",
 		"brand":"Safety Jogger",
 		"category":"Safety Shoes",
-		"description":"Toecap : Composite, Midsole: PU",
+		"description":"Sole: PU/PU, Midsole: Puncture Resistant SJ FLEX, Insole: Premoulded, Toecap: Composite",
 		"pricebefore":"680.000",
-		"price":"1.000.000",
-		"thumb": "jumper"
+		"price":"495.000",
+		"thumb": "safetyshoes/jumper"
 	},
 	{
 		"id":7,
 		"product_name":"Speedy S3",
-		"description":"Toecap : Composite, Midsole: PU",
+		"description":"Sole : PU/Rubber, Toecap : Composite Cap, Midsole : Anti Preforation SJ FLEX, Lining : Mesh",
 		"brand":"Safety Jogger",
 		"category":"Safety Shoes",
-		"pricebefore":"690.000",
-		"price":"650.000",
-		"thumb": "speedy"
+		"price":"707.000",
+		"thumb": "safetyshoes/speedy"
 	},
 	{
 		"id":8,
 		"product_name":"Turbo S3",
-		"description":"Toecap : Composite, Midsole: PU",
+		"description":"Sole : PU/Rubber, Toecap : Composite Cap, Midsole : Anti Preforation SJ FLEX, Lining : Mesh",
 		"brand":"Safety Jogger",
 		"category":"Safety Shoes",
 		"pricebefore":"790.000",
-		"price":"620.000",
-		"thumb": "turbo"
+		"price":"666.500",
+		"thumb": "safetyshoes/turbo"
 	},
 	{
 		"id":9,
 		"product_name":"Xplore S3",
-		"description":"Toecap : Composite, Midsole: PU",
+		"description":"Sole : PU/Rubber, Toecap : Composite Cap, Midsole : Puncture resistant SJ FLEX, Lining : Mesh Nylon",
 		"brand":"Safety Jogger",
 		"category":"Safety Shoes",
 		"pricebefore":"750.000",
-		"price":"620.000",
-		"thumb": "xplore"
+		"price":"636.500",
+		"thumb": "safetyshoes/xplore"
 	},
 	{
 		"id":10,
@@ -97,7 +96,7 @@
 		"category":"Safety Shoes",
 		"pricebefore":"460.000",
 		"price":"280.000",
-		"thumb": "safetyclog"
+		"thumb": "safetyshoes/safetyclog"
 	},
 	{
 		"id":11,
@@ -107,7 +106,7 @@
 		"category":"Safety Shoes",
 		"pricebefore":"900.000",
 		"price":"843.500",
-		"thumb": "absoluteblack"
+		"thumb": "safetyshoes/absoluteblack"
 	},
 	{
 		"id":12,
@@ -117,7 +116,7 @@
 		"category":"Safety Shoes",
 		"pricebefore":"900.000",
 		"price":"843.500",
-		"thumb": "absolutenavy"
+		"thumb": "safetyshoes/absolutenavy"
 	},
 	{
 		"id":13,
@@ -127,7 +126,7 @@
 		"category":"Safety Shoes",
 		"pricebefore":"635.000",
 		"price":"480.000",
-		"thumb": "aura"
+		"thumb": "safetyshoes/aura"
 	},
 	{
 		"id":14,
@@ -137,7 +136,7 @@
 		"category":"Safety Shoes",
 		"pricebefore":"770.000",
 		"price":"510.000",
-		"thumb": "baltogrey"
+		"thumb": "safetyshoes/baltogrey"
 	},
 	{
 		"id":15,
@@ -145,9 +144,9 @@
 		"description":"Sole : Phylon + Rubber, Toecap : Steel Cap, Lining : Mesh",
 		"brand":"Safety Jogger",
 		"category":"Safety Shoes",
-		"pricebefore":"",
-		"price":"",
-		"thumb": ""
+		"pricebefore":"770.000",
+		"price":"510.000",
+		"thumb": "safetyshoes/baltonavy"
 	},
 	{
 		"id":16,
@@ -157,7 +156,7 @@
 		"category":"Safety Shoes",
 		"pricebefore":"650.000",
 		"price":"500.000",
-		"thumb": "bestboot"
+		"thumb": "safetyshoes/bestboot"
 	},
 	{
 		"id":17,
@@ -167,7 +166,7 @@
 		"category":"Safety Shoes",
 		"pricebefore":"300.000",
 		"price":"263.000",
-		"thumb": "bestclog"
+		"thumb": "safetyshoes/bestclog"
 	},
 	{
 		"id":18,
@@ -177,7 +176,7 @@
 		"category":"Safety Shoes",
 		"pricebefore":"400.000",
 		"price":"384.000",
-		"thumb": "bestgirl"
+		"thumb": "safetyshoes/bestgirl"
 	},
 	{
 		"id":19,
@@ -187,226 +186,36 @@
 		"category":"Safety Shoes",
 		"pricebefore":"350.000",
 		"price":"324.000",
-		"thumb": "bestrun"
+		"thumb": "safetyshoes/bestrun"
 	},
 	{
 		"id":20,
-		"product_name":"",
-		"description":"",
+		"product_name":"Boreas S3",
+		"description":"Sole PU/Rubber, Toecap Composite, Midsole Puncture Resistant",
 		"brand":"Safety Jogger",
 		"category":"Safety Shoes",
-		"pricebefore":"",
-		"price":"",
-		"thumb": ""
+		"pricebefore":"1000.000",
+		"price":"904.000",
+		"thumb": "safetyshoes/boreas"
 	},
 	{
-		"id":11,
-		"product_name":"",
-		"description":"",
-		"brand":"Safety Jogger",
-		"category":"Safety Shoes",
+		"id":21,
+		"product_name":"97-120",
+		"description":"Industrial Impact Glove",
+		"brand":"Ansell",
+		"category":"Safety Gloves",
 		"pricebefore":"",
-		"price":"",
-		"thumb": ""
+		"price":"257.000",
+		"thumb": "safetyglove/97-120"
 	},
 	{
-		"id":11,
-		"product_name":"",
-		"description":"",
-		"brand":"Safety Jogger",
-		"category":"Safety Shoes",
+		"id":22,
+		"product_name":"RINGER-065",
+		"description":"Industrial Impact Glove",
+		"brand":"Ansell",
+		"category":"Safety Gloves",
 		"pricebefore":"",
-		"price":"",
-		"thumb": ""
-	},
-	{
-		"id":11,
-		"product_name":"",
-		"description":"",
-		"brand":"Safety Jogger",
-		"category":"Safety Shoes",
-		"pricebefore":"",
-		"price":"",
-		"thumb": ""
-	},
-	{
-		"id":11,
-		"product_name":"",
-		"description":"",
-		"brand":"Safety Jogger",
-		"category":"Safety Shoes",
-		"pricebefore":"",
-		"price":"",
-		"thumb": ""
-	},
-	{
-		"id":11,
-		"product_name":"",
-		"description":"",
-		"brand":"Safety Jogger",
-		"category":"Safety Shoes",
-		"pricebefore":"",
-		"price":"",
-		"thumb": ""
-	},
-	{
-		"id":11,
-		"product_name":"",
-		"description":"",
-		"brand":"Safety Jogger",
-		"category":"Safety Shoes",
-		"pricebefore":"",
-		"price":"",
-		"thumb": ""
-	},
-	{
-		"id":11,
-		"product_name":"",
-		"description":"",
-		"brand":"Safety Jogger",
-		"category":"Safety Shoes",
-		"pricebefore":"",
-		"price":"",
-		"thumb": ""
-	},
-	{
-		"id":11,
-		"product_name":"",
-		"description":"",
-		"brand":"Safety Jogger",
-		"category":"Safety Shoes",
-		"pricebefore":"",
-		"price":"",
-		"thumb": ""
-	},
-	{
-		"id":11,
-		"product_name":"",
-		"description":"",
-		"brand":"Safety Jogger",
-		"category":"Safety Shoes",
-		"pricebefore":"",
-		"price":"",
-		"thumb": ""
-	},
-	{
-		"id":11,
-		"product_name":"",
-		"description":"",
-		"brand":"Safety Jogger",
-		"category":"Safety Shoes",
-		"pricebefore":"",
-		"price":"",
-		"thumb": ""
-	},
-	{
-		"id":11,
-		"product_name":"",
-		"description":"",
-		"brand":"Safety Jogger",
-		"category":"Safety Shoes",
-		"pricebefore":"",
-		"price":"",
-		"thumb": ""
-	},
-	{
-		"id":11,
-		"product_name":"",
-		"description":"",
-		"brand":"Safety Jogger",
-		"category":"Safety Shoes",
-		"pricebefore":"",
-		"price":"",
-		"thumb": ""
-	},
-	{
-		"id":11,
-		"product_name":"",
-		"description":"",
-		"brand":"Safety Jogger",
-		"category":"Safety Shoes",
-		"pricebefore":"",
-		"price":"",
-		"thumb": ""
-	},
-	{
-		"id":11,
-		"product_name":"",
-		"description":"",
-		"brand":"Safety Jogger",
-		"category":"Safety Shoes",
-		"pricebefore":"",
-		"price":"",
-		"thumb": ""
-	},
-	{
-		"id":11,
-		"product_name":"",
-		"description":"",
-		"brand":"Safety Jogger",
-		"category":"Safety Shoes",
-		"pricebefore":"",
-		"price":"",
-		"thumb": ""
-	},
-	{
-		"id":11,
-		"product_name":"",
-		"description":"",
-		"brand":"Safety Jogger",
-		"category":"Safety Shoes",
-		"pricebefore":"",
-		"price":"",
-		"thumb": ""
-	},
-	{
-		"id":11,
-		"product_name":"",
-		"description":"",
-		"brand":"Safety Jogger",
-		"category":"Safety Shoes",
-		"pricebefore":"",
-		"price":"",
-		"thumb": ""
-	},
-	{
-		"id":11,
-		"product_name":"",
-		"description":"",
-		"brand":"Safety Jogger",
-		"category":"Safety Shoes",
-		"pricebefore":"",
-		"price":"",
-		"thumb": ""
-	},
-	{
-		"id":11,
-		"product_name":"",
-		"description":"",
-		"brand":"Safety Jogger",
-		"category":"Safety Shoes",
-		"pricebefore":"",
-		"price":"",
-		"thumb": ""
-	},
-	{
-		"id":11,
-		"product_name":"",
-		"description":"",
-		"brand":"Safety Jogger",
-		"category":"Safety Shoes",
-		"pricebefore":"",
-		"price":"",
-		"thumb": ""
-	},
-	{
-		"id":11,
-		"product_name":"",
-		"description":"",
-		"brand":"Safety Jogger",
-		"category":"Safety Shoes",
-		"pricebefore":"",
-		"price":"",
-		"thumb": ""
+		"price":"290.000",
+		"thumb": "safetyglove/ringr065"
 	}
 	]		

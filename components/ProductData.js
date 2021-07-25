@@ -4,7 +4,8 @@ class Product extends React.Component {
     this.state = {
       products: [],
       searchfield: '',
-      categoryfield: ''
+      categoryfield: '',
+      brandfield:''
 
     }
   }
@@ -21,26 +22,35 @@ class Product extends React.Component {
   onCategoryChange = (event) => {
     this.setState({ categoryfield: event.target.value })
   }
+  onBrandChange = (event) => {
+    this.setState({ brandfield: event.target.value })
+  }
   
 
   render() {
     
-    const { products, searchfield, categoryfield } = this.state;
+    const { products, searchfield, categoryfield, brandfield } = this.state;
     let categoryName = '';
 
     let categoryfilteredProducts = products.filter(products =>{
       return products.category.includes(categoryfield);
     })
+    let brandfilteredProducts = products.filter(categoryfilteredProducts =>{
+      return categoryfilteredProducts.brand.includes(brandfield);
+    })
 
-    let filteredProducts = categoryfilteredProducts.filter(categoryfilteredProducts =>{
-      return categoryfilteredProducts.product_name.toLowerCase().includes(searchfield.toLowerCase());
+    let filteredProducts = categoryfilteredProducts.filter(brandfilteredProducts =>{
+      return brandfilteredProducts.product_name.toLowerCase().includes(searchfield.toLowerCase());
     })
     return !products.length ?
       <h1>Loading</h1> :
       (
         <div className="section-products">
         <div className="flex">
+          <div className="categories">
         <Category categoryChange={this.onCategoryChange}/>
+        <Brand brandChange={this.onBrandChange}/>
+        </div>  
         <div className='width100'>
           
           <SearchBox searchChange={this.onSearchChange}/>
