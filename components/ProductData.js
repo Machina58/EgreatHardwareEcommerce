@@ -11,7 +11,7 @@ class Product extends React.Component {
   }
 
   componentDidMount() {
-    fetch('../data/productdata.json')
+    fetch('/../data/productdata.json')
       .then(response=> response.json())
       .then(productlist => {this.setState({ products: productlist})});
   }
@@ -35,11 +35,11 @@ class Product extends React.Component {
     let categoryfilteredProducts = products.filter(products =>{
       return products.category.includes(categoryfield);
     })
-    let brandfilteredProducts = products.filter(categoryfilteredProducts =>{
+    let brandfilteredProducts = categoryfilteredProducts.filter(categoryfilteredProducts =>{
       return categoryfilteredProducts.brand.includes(brandfield);
     })
 
-    let filteredProducts = categoryfilteredProducts.filter(brandfilteredProducts =>{
+    let filteredProducts = brandfilteredProducts.filter(brandfilteredProducts =>{
       return brandfilteredProducts.product_name.toLowerCase().includes(searchfield.toLowerCase());
     })
     return !products.length ?
