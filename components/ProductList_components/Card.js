@@ -16,8 +16,7 @@ const Card = ({ id, product_name, brand, category, description, pricebefore, pri
         <div className="product-bottom-details">
           <div className="product-price"><small>{pricebefore}</small>{price}</div>
 				<div className="product-links">
-					<a href=""><i className="fa fa-heart"></i></a>
-					<a href={Caa}><i className="fab fa-whatsapp"/></a>
+					<a href={Caa}><i className="fab fa-whatsapp wa"/></a>
 				</div>
         </div>
       </div>
