@@ -16,6 +16,8 @@ const CardList = ({ products }) => {
               pricebefore={products[i].pricebefore}
               price={products[i].price}
               thumb={products[i].thumb}
+              tokpedlink={products[i].tokpedlink}
+              shopeelink={products[i].shopeelink}
               />
               </div>
           );

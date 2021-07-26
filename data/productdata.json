@@ -7,7 +7,9 @@
 		"description":"Toecap : Steel, Midsole : Steel, Lining : Cambrella",
 		"pricebefore":"570.000",
 		"price":"394.000",
-		"thumb": "safetyshoes/bestfit"
+		"thumb": "safetyshoes/bestfit",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/sepatu-safety-bestfit-s1p-safety-jogger-safety-shoes",
+		"shopeelink" :""
 	},
 	{
 		"id":2,
@@ -17,7 +19,9 @@
 		"description":"Sole : PU/PU, Toecap : Steel, Midsole : Steel",
 		"pricebefore":"590.000",
 		"price":"510.000",
-		"thumb": "safetyshoes/dakarbrown"
+		"thumb": "safetyshoes/dakarbrown",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/sepatu-safety-dakar-s3-safety-jogger",
+		"shopeelink" :""
 	},
 	{
 		"id":3,
@@ -27,7 +31,9 @@
 		"description":"Sole: PU/PU, Toecap: Steel, Midsole: Steel",
 		"pricebefore":"400.000",
 		"price":"394.000",
-		"thumb": "safetyshoes/desertmulti"
+		"thumb": "safetyshoes/desertmulti",
+		"tokpedlink" : "",
+		"shopeelink" :""
 	},
 	{
 		"id":4,
@@ -37,7 +43,9 @@
 		"description":"Sole: PU/PU, Toecap: Steel, Midsole: Steel",
 		"pricebefore":"400.000",
 		"price":"394.000",
-		"thumb": "safetyshoes/desertsand"
+		"thumb": "safetyshoes/desertsand",
+		"tokpedlink" : "",
+		"shopeelink" :""
 	},
 	{
 		"id":5,
@@ -47,7 +55,9 @@
 		"description":"Sole:PU/PU, Midsole:Puncture Resistant SJ Flex, Toecap: Composite",
 		"pricebefore":"550.000",
 		"price":"480.500",
-		"thumb": "safetyshoes/eos"
+		"thumb": "safetyshoes/eos",
+		"tokpedlink" : "",
+		"shopeelink" :""
 	},
 	{
 		"id":6,
@@ -57,7 +67,9 @@
 		"description":"Sole: PU/PU, Midsole: Puncture Resistant, Insole: Premoulded, Toecap: Composite",
 		"pricebefore":"680.000",
 		"price":"495.000",
-		"thumb": "safetyshoes/jumper"
+		"thumb": "safetyshoes/jumper",
+		"tokpedlink" : "",
+		"shopeelink" :""
 	},
 	{
 		"id":7,
@@ -66,7 +78,9 @@
 		"brand":"Safety Jogger",
 		"category":"Safety Shoes",
 		"price":"707.000",
-		"thumb": "safetyshoes/speedy"
+		"thumb": "safetyshoes/speedy",
+		"tokpedlink" : "",
+		"shopeelink" :""
 	},
 	{
 		"id":8,
@@ -76,7 +90,9 @@
 		"category":"Safety Shoes",
 		"pricebefore":"790.000",
 		"price":"666.500",
-		"thumb": "safetyshoes/turbo"
+		"thumb": "safetyshoes/turbo",
+		"tokpedlink" : "",
+		"shopeelink" :""
 	},
 	{
 		"id":9,
@@ -86,7 +102,9 @@
 		"category":"Safety Shoes",
 		"pricebefore":"750.000",
 		"price":"636.500",
-		"thumb": "safetyshoes/xplore"
+		"thumb": "safetyshoes/xplore",
+		"tokpedlink" : "",
+		"shopeelink" :""
 	},
 	{
 		"id":10,
@@ -96,7 +114,9 @@
 		"category":"Safety Shoes",
 		"pricebefore":"460.000",
 		"price":"280.000",
-		"thumb": "safetyshoes/safetyclog"
+		"thumb": "safetyshoes/safetyclog",
+		"tokpedlink" : "",
+		"shopeelink" :""
 	},
 	{
 		"id":11,
@@ -106,7 +126,9 @@
 		"category":"Safety Shoes",
 		"pricebefore":"900.000",
 		"price":"843.500",
-		"thumb": "safetyshoes/absoluteblack"
+		"thumb": "safetyshoes/absoluteblack",
+		"tokpedlink" : "",
+		"shopeelink" :""
 	},
 	{
 		"id":12,
@@ -116,7 +138,9 @@
 		"category":"Safety Shoes",
 		"pricebefore":"900.000",
 		"price":"843.500",
-		"thumb": "safetyshoes/absolutenavy"
+		"thumb": "safetyshoes/absolutenavy",
+		"tokpedlink" : "",
+		"shopeelink" :""
 	},
 	{
 		"id":13,
@@ -126,7 +150,9 @@
 		"category":"Safety Shoes",
 		"pricebefore":"635.000",
 		"price":"480.000",
-		"thumb": "safetyshoes/aura"
+		"thumb": "safetyshoes/aura",
+		"tokpedlink" : "",
+		"shopeelink" :""
 	},
 	{
 		"id":14,
@@ -136,7 +162,9 @@
 		"category":"Safety Shoes",
 		"pricebefore":"770.000",
 		"price":"510.000",
-		"thumb": "safetyshoes/baltogrey"
+		"thumb": "safetyshoes/baltogrey",
+		"tokpedlink" : "",
+		"shopeelink" :""
 	},
 	{
 		"id":15,
@@ -146,7 +174,9 @@
 		"category":"Safety Shoes",
 		"pricebefore":"770.000",
 		"price":"510.000",
-		"thumb": "safetyshoes/baltonavy"
+		"thumb": "safetyshoes/baltonavy",
+		"tokpedlink" : "",
+		"shopeelink" :""
 	},
 	{
 		"id":16,
@@ -156,7 +186,9 @@
 		"category":"Safety Shoes",
 		"pricebefore":"650.000",
 		"price":"500.000",
-		"thumb": "safetyshoes/bestboot"
+		"thumb": "safetyshoes/bestboot",
+		"tokpedlink" : "",
+		"shopeelink" :""
 	},
 	{
 		"id":17,
@@ -166,7 +198,9 @@
 		"category":"Safety Shoes",
 		"pricebefore":"300.000",
 		"price":"263.000",
-		"thumb": "safetyshoes/bestclog"
+		"thumb": "safetyshoes/bestclog",
+		"tokpedlink" : "",
+		"shopeelink" :""
 	},
 	{
 		"id":18,
@@ -176,7 +210,9 @@
 		"category":"Safety Shoes",
 		"pricebefore":"400.000",
 		"price":"384.000",
-		"thumb": "safetyshoes/bestgirl"
+		"thumb": "safetyshoes/bestgirl",
+		"tokpedlink" : "",
+		"shopeelink" :""
 	},
 	{
 		"id":19,
@@ -186,7 +222,9 @@
 		"category":"Safety Shoes",
 		"pricebefore":"350.000",
 		"price":"324.000",
-		"thumb": "safetyshoes/bestrun"
+		"thumb": "safetyshoes/bestrun",
+		"tokpedlink" : "",
+		"shopeelink" :""
 	},
 	{
 		"id":20,
@@ -196,7 +234,9 @@
 		"category":"Safety Shoes",
 		"pricebefore":"1000.000",
 		"price":"904.000",
-		"thumb": "safetyshoes/boreas"
+		"thumb": "safetyshoes/boreas",
+		"tokpedlink" : "",
+		"shopeelink" :""
 	},
 	{
 		"id":21,
@@ -206,7 +246,9 @@
 		"category":"Safety Gloves",
 		"pricebefore":"",
 		"price":"257.000",
-		"thumb": "safetyglove/97-120"
+		"thumb": "safetyglove/97-120",
+		"tokpedlink" : "",
+		"shopeelink" :""
 	},
 	{
 		"id":22,
@@ -216,6 +258,21 @@
 		"category":"Safety Gloves",
 		"pricebefore":"",
 		"price":"290.000",
-		"thumb": "safetyglove/ringr065"
+		"thumb": "safetyglove/ringr065",
+		"tokpedlink" : "",
+		"shopeelink" :""
+	}
+	,
+	{
+		"id":23,
+		"product_name":"",
+		"description":"",
+		"brand":"",
+		"category":"",
+		"pricebefore":"",
+		"price":"",
+		"thumb": "safetyglove/102324",
+		"tokpedlink" : "",
+		"shopeelink" :""
 	}
 	]		
