@@ -8,13 +8,8 @@
 		"pricebefore":"570.000",
 		"price":"394.000",
 		"thumb": "safetyshoes/bestfit",
-<<<<<<< HEAD
-		"tokpedlink" : "",
-		"shopeelink" :""
-=======
 		"tokpedlink" : "https://www.tokopedia.com/egreathardware/sepatu-safety-bestfit-s1p-safety-jogger-safety-shoes",
 		"shopeelink" :"https://shopee.co.id/Sepatu-Safety-Jogger-Model-Bestfit-S1P-Toecap-Steel-Cap-(BATAM-HARGA-NORMAL)-i.55199880.914459262?position=0&__hybrid_pc__=1&stm_referrer=https%3A%2F%2Fshopee.co.id%2Fsearch%3Fkeyword%3Dbestfit%26shop%3D55199880"
->>>>>>> 6d59a2b848b49cfe223eaa4f1858faa5f16021c0
 	},
 	{
 		"id":2,
@@ -25,13 +20,8 @@
 		"pricebefore":"590.000",
 		"price":"510.000",
 		"thumb": "safetyshoes/dakarbrown",
-<<<<<<< HEAD
-		"tokpedlink" : "",
-		"shopeelink" :""
-=======
 		"tokpedlink" : "https://www.tokopedia.com/egreathardware/sepatu-safety-dakar-s3-safety-jogger",
 		"shopeelink" :"https://shopee.co.id/Sepatu-Safety-Jogger-Model-Dakar-Brown-S3-Safety-Shoes-Industrial-Toecap-Steel-(BATAM-HARGA-NORMAL)-i.55199880.899648850?position=0&__hybrid_pc__=1&stm_referrer=https%3A%2F%2Fshopee.co.id%2Fsearch%3Fkeyword%3Ddakar%26shop%3D55199880"
->>>>>>> 6d59a2b848b49cfe223eaa4f1858faa5f16021c0
 	},
 	{	
 		"id":3,
@@ -250,13 +240,8 @@
 	},
 	{
 		"id":21,
-<<<<<<< HEAD
-		"product_name":"Activarm 97-120",
-		"description":"Finishing: Dipped, Coating Material: Nitrile, Liner Material: HPPE",
-=======
 		"product_name":"Impact Glove 97-120",
 		"description":"Coating Material: Nitrile, Latex Free, Liner Material: HPPE",
->>>>>>> 6d59a2b848b49cfe223eaa4f1858faa5f16021c0
 		"brand":"Ansell",
 		"category":"Safety Gloves",
 		"pricebefore":"290.000",
@@ -267,72 +252,13 @@
 	},
 	{
 		"id":22,
-<<<<<<< HEAD
-		"product_name":"RINGER-065",
-		"description":"Finishing: Dipped, Coating Material: Nitrile, Liner Material: HPPE",
-=======
 		"product_name":"Impact Glove RINGERS-065",
 		"description":"Coating Material: Nitrile, Latex Free, Liner Material: HPPE",
->>>>>>> 6d59a2b848b49cfe223eaa4f1858faa5f16021c0
 		"brand":"Ansell",
 		"category":"Safety Gloves",
 		"pricebefore":"330.000",
 		"price":"290.000",
 		"thumb": "safetyglove/ringr065",
-<<<<<<< HEAD
-		"tokpedlink" : "",
-		"shopeelink" :""
-	},
-	{
-		"id":23,
-		"product_name":"Glove Leather 102-304",
-		"description":"Welding Gloves",
-		"brand":"Weldas",
-		"category":"Safety Gloves",
-		"pricebefore":"180.000",
-		"price":"159.000",
-		"thumb": "safetyglove/102304",
-		"tokpedlink" : "https://www.tokopedia.com/egreathardware/sarung-tangan-las-argon-kulit-glove-tig-welding-leather-weldas-10-2304",
-		"shopeelink" : "https://seller.shopee.co.id/portal/product/list/all?page=1&search=name&keyword=Sarung%20Tangan%20Las%20TIG%20Welding%20Glove%20Weldas%2010-2304%20Deer%20Skin"
-	},
-	{
-		"id":24,
-		"product_name":"Glove Leather 102-327",
-		"description":"Welding Gloves",
-		"brand":"Weldas",
-		"category":"Safety Gloves",
-		"pricebefore":"150.000",
-		"price":"122.000",
-		"thumb": "safetyglove/102327",
-		"tokpedlink" : "",
-		"shopeelink" :""
-	}
-	,
-	{
-		"id":25,
-		"product_name":"Hand Shield443-006",
-		"description":"Welding Hand Shield",
-		"brand":"Weldas",
-		"category":"Safety Gloves",
-		"pricebefore":"100.000",
-		"price":"61.000",
-		"thumb": "safetyglove/443006",
-		"tokpedlink" : "",
-		"shopeelink" :""
-	}
-	,
-    {
-		"id":26,
-		"product_name":"Kacamata Saf-Eva",
-		"description":"Welding Hand Shield",
-		"brand":"Saf-Eva",
-		"category":"Safety Glasses",
-		"pricebefore":"100.000",
-		"price":"78.000",
-		"thumb": "safetyglasses/safeva",
-		"tokpedlink" : "",
-		"shopeelink" :""
-=======
 		"tokpedlink" : "../404.html",
 		"shopeelink" :"../404.html"
 	},
@@ -347,6 +273,5 @@
 		"thumb": "safetyglove/102324",
 		"tokpedlink" : "https://www.tokopedia.com/egreathardware/sarung-tangan-las-argon-kulit-glove-tig-welding-leather-weldas-10-2304",
 		"shopeelink" :"https://shopee.co.id/Sarung-Tangan-Las-TIG-Welding-Glove-Weldas-10-2304-Deer-Skin-i.55199880.1001224360?position=0&__hybrid_pc__=1&stm_referrer=https%3A%2F%2Fshopee.co.id%2Fsearch%3Fkeyword%3D10-2304%26shop%3D55199880"
->>>>>>> 6d59a2b848b49cfe223eaa4f1858faa5f16021c0
 	}
-]
+	]		
