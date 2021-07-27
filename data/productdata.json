@@ -8,7 +8,7 @@
 		"pricebefore":"570.000",
 		"price":"394.000",
 		"thumb": "safetyshoes/bestfit",
-		"tokpedlink" : "https://www.tokopedia.com/egreathardware/sepatu-safety-bestfit-s1p-safety-jogger-safety-shoes",
+		"tokpedlink" : "",
 		"shopeelink" :""
 	},
 	{
@@ -20,7 +20,7 @@
 		"pricebefore":"590.000",
 		"price":"510.000",
 		"thumb": "safetyshoes/dakarbrown",
-		"tokpedlink" : "https://www.tokopedia.com/egreathardware/sepatu-safety-dakar-s3-safety-jogger",
+		"tokpedlink" : "",
 		"shopeelink" :""
 	},
 	{
@@ -240,8 +240,8 @@
 	},
 	{
 		"id":21,
-		"product_name":"97-120",
-		"description":"Industrial Impact Glove",
+		"product_name":"Activarm 97-120",
+		"description":"Finishing: Dipped, Coating Material: Nitrile, Liner Material: HPPE",
 		"brand":"Ansell",
 		"category":"Safety Gloves",
 		"pricebefore":"",
@@ -253,7 +253,7 @@
 	{
 		"id":22,
 		"product_name":"RINGER-065",
-		"description":"Industrial Impact Glove",
+		"description":"Finishing: Dipped, Coating Material: Nitrile, Liner Material: HPPE",
 		"brand":"Ansell",
 		"category":"Safety Gloves",
 		"pricebefore":"",
@@ -261,18 +261,55 @@
 		"thumb": "safetyglove/ringr065",
 		"tokpedlink" : "",
 		"shopeelink" :""
-	}
-	,
+	},
 	{
 		"id":23,
-		"product_name":"",
-		"description":"",
-		"brand":"",
-		"category":"",
-		"pricebefore":"",
-		"price":"",
-		"thumb": "safetyglove/102324",
+		"product_name":"Glove Leather 102-304",
+		"description":"Welding Gloves",
+		"brand":"Weldas",
+		"category":"Safety Gloves",
+		"pricebefore":"180.000",
+		"price":"159.000",
+		"thumb": "safetyglove/102304",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/sarung-tangan-las-argon-kulit-glove-tig-welding-leather-weldas-10-2304",
+		"shopeelink" : "https://seller.shopee.co.id/portal/product/list/all?page=1&search=name&keyword=Sarung%20Tangan%20Las%20TIG%20Welding%20Glove%20Weldas%2010-2304%20Deer%20Skin"
+	},
+	{
+		"id":24,
+		"product_name":"Glove Leather 102-327",
+		"description":"Welding Gloves",
+		"brand":"Weldas",
+		"category":"Safety Gloves",
+		"pricebefore":"150.000",
+		"price":"122.000",
+		"thumb": "safetyglove/102327",
 		"tokpedlink" : "",
 		"shopeelink" :""
 	}
-	]		
+	,
+	{
+		"id":25,
+		"product_name":"Hand Shield443-006",
+		"description":"Welding Hand Shield",
+		"brand":"Weldas",
+		"category":"Safety Gloves",
+		"pricebefore":"100.000",
+		"price":"61.000",
+		"thumb": "safetyglove/443006",
+		"tokpedlink" : "",
+		"shopeelink" :""
+	}
+	,
+    {
+		"id":26,
+		"product_name":"Kacamata Saf-Eva",
+		"description":"Welding Hand Shield",
+		"brand":"Saf-Eva",
+		"category":"Safety Glasses",
+		"pricebefore":"100.000",
+		"price":"78.000",
+		"thumb": "safetyglasses/safeva",
+		"tokpedlink" : "",
+		"shopeelink" :""
+	}
+]
