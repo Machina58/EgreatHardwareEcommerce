@@ -79,6 +79,7 @@
 		"description":"Sole : PU/Rubber, Toecap : Composite Cap, Midsole : Anti Preforation SJ FLEX",
 		"brand":"Safety Jogger",
 		"category":"Safety Shoes",
+		"pricebefore":"780.000",
 		"price":"707.000",
 		"thumb": "safetyshoes/speedy",
 		"tokpedlink" : "https://www.tokopedia.com/egreathardware/safety-shoes-speedy-s1-sepatu-safey-jogger-new-hitam-39",
@@ -551,14 +552,53 @@
 	{
 		"id":45,
 		"product_name":"Twin Tails Lanyard Rope ",
-		"description":" Twin tails energy absorbing lanyard rope,32mm energy absorber",
-		"brand":"Harris",
+		"description":"Energy absorbing lanyard rope,32mm energy absorber",
+		"brand":"King's",
 		"category":"Fall Protection",
-		"pricebefore":"999.000",
-		"price":"900.000",
-		"thumb": "regulator/HRR8474LP",
-		"tokpedlink" : "https://www.tokopedia.com/egreathardware/regulator-pipeline-harris-847-4-lp-propane-gas-one-gauge",
-		"shopeelink" :"https://shopee.co.id/product/55199880/4332106780/"
+		"pricebefore":"500.000",
+		"price":"420.000",
+		"thumb": "Lanyard/KISKB707",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/twin-tails-lanyard-rope-king-s-kb-707",
+		"shopeelink" :"https://shopee.co.id/product/55199880/2982071381/"
+	}
+	,
+	{
+		"id":46,
+		"product_name":"Dancel DE522 Single Lanyard Shock Absorber",
+		"description":"Single Lanyard Shock Absorber,50MM SNAP HOOK",
+		"brand":"Dancel",
+		"category":"Fall Protection",
+		"pricebefore":"550.000",
+		"price":"460.000",
+		"thumb": "Lanyard/DANDE522",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/dancel-de522-single-lanyard-shock-absorber",
+		"shopeelink" :"https://shopee.co.id/product/55199880/9980791769/"
+	}
+	,
+	{
+		"id":47,
+		"product_name":"Lanyard MB9007 With Absorder Double Hook",
+		"description":"Single Lanyard Shock Absorber,50MM SNAP HOOK",
+		"brand":"Miller",
+		"category":"Fall Protection",
+		"pricebefore":"500.000",
+		"price":"425.000",
+		"thumb": "Lanyard/MILMB9007",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/lanyard-miller-mb-9007-with-absorder-1-7-m-double-hook",
+		"shopeelink" :"https://shopee.co.id/product/55199880/2982076178/"
+	}
+	,
+	{
+		"id":48,
+		"product_name":"Miller Work DL-25 positioning lanyard",
+		"description":"Honeywell Miller Work DL-25 positioning Lanyard",
+		"brand":"Miller",
+		"category":"Fall Protection",
+		"pricebefore":"500.000",
+		"price":"410.000",
+		"thumb": "Lanyard/MILWORKDL25",
+		"tokpedlink" :"https://www.tokopedia.com/egreathardware/honeywell-miller-work-dl-25-positioning-lanyard",
+		"shopeelink" :"https://shopee.co.id/product/55199880/11317845641/"
 	}
 	]		
      
