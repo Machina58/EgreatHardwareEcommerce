@@ -9,6 +9,7 @@ const CardList = ({ products }) => {
             <Card
               key={i}
               id={products[i].id}
+              stat={products[i].stat}
               product_name={products[i].product_name}
               brand={products[i].brand}
               category={products[i].category}

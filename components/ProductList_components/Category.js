@@ -13,6 +13,7 @@ const Category = ({ categoryfield, categoryChange }) => {
                 <option value="Safety Helmet">Safety Helmet</option>
                 <option value="Safety Clothes">Safety Clothes</option>
                 <option value="Safety Earmuff">Safety Earmuff</option>
+                <option value="Fall Protection">Fall Protection</option>
                 <option value="Welding Safety">Welding Safety</option>
                 <option value="Plier">Plier</option>
                 <option value="Screwdriver">Screwdriver</option>
