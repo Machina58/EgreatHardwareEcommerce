@@ -1,6 +1,7 @@
 [
 	{
 		"id":1,
+		"stat":"HOT",
 		"product_name":"Bestfit S1P",
 		"brand":"Safety Jogger",
 		"category":"Safety Shoes",
@@ -13,6 +14,7 @@
 	},
 	{
 		"id":2,
+		"stat":"HOT",
 		"product_name":"Dakar Brown S3",
 		"brand":"Safety Jogger",
 		"category":"Safety Shoes",
@@ -252,6 +254,7 @@
 	},
 	{
 		"id":22,
+		"stat":"NEW",
 		"product_name":"Impact Glove RINGERS-065",
 		"description":"Coating Material: Nitrile, Latex Free, Liner Material: HPPE",
 		"brand":"Ansell",
@@ -273,5 +276,289 @@
 		"thumb": "safetyglove/102324",
 		"tokpedlink" : "https://www.tokopedia.com/egreathardware/sarung-tangan-las-argon-kulit-glove-tig-welding-leather-weldas-10-2304",
 		"shopeelink" :"https://shopee.co.id/Sarung-Tangan-Las-TIG-Welding-Glove-Weldas-10-2304-Deer-Skin-i.55199880.1001224360?position=0&__hybrid_pc__=1&stm_referrer=https%3A%2F%2Fshopee.co.id%2Fsearch%3Fkeyword%3D10-2304%26shop%3D55199880"
+	},
+	{
+		"id":24,
+		"product_name":"Welding Glove 10-2327",
+		"description":"Welding Glove",
+		"brand":"Weldas",
+		"category":"Safety Gloves",
+		"pricebefore":"150.000",
+		"price":"122.000",
+		"thumb": "safetyglove/102327",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/sarung-tangan-las-argon-kulit-tig-welding-glove-leather-weldas-10-2327",
+		"shopeelink" :"https://shopee.co.id/Sarung-Tangan-Welding-TIG-Glove-Weldas-10-2327-Deer-Skin-i.55199880.1001218547"
+	},
+	{
+		"id":25,
+		"product_name":"Kacamata Saf-Eva",
+		"description":"Kacamata Mcdermott",
+		"brand":"Saf-Eva",
+		"category":"Safety Glasses",
+		"pricebefore":"100.000",
+		"price":"78.000",
+		"thumb": "safetyglasses/safeva",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/kacamata-safety-proyek-side-shield-safety-glasses-mcdermott-saipem",
+		"shopeelink" :"https://shopee.co.id/product/55199880/1666901740/?__hybrid_pc__=1"
+	},
+	{
+		"id":26,
+		"product_name":"Kacamata MaxxPro Hiking",
+		"description":"AS / NZS 1337.1: 2010 - Standar Australia ",
+		"brand":"Honeywell",
+		"category":"Safety Glasses",
+		"pricebefore":"180.000",
+		"price":"155.000",
+		"thumb": "safetyglasses/maxx",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/kacamata-cross-safety-google-full-protector-honeywell-maxxpro-hiking",
+		"shopeelink" :"https://shopee.co.id/Kacamata-Safety-Googles-Honeywell-Maxx-Pro-1011072-i.55199880.946109745?position=4"
+	}
+	,
+	{
+		"id":27,
+		"product_name":"Kacamata King's KY1152 Dark Lens",
+		"description":"Anti-scratch hard coating, 99.9 % UV radiation block",
+		"brand":"King's",
+		"category":"Safety Glasses",
+		"pricebefore":"70.000",
+		"price":"50.000",
+		"thumb": "safetyglasses/KISKY1152",
+		"tokpedlink" : "",
+		"shopeelink" :"https://shopee.co.id/product/55199880/2307780356/"
+	}
+	,
+	{
+		"id":28,
+		"product_name":"Kacamata Blasting Safety Googles FogBan",
+		"description":"Lensa tahan benturan polikarbonat",
+		"brand":"Honeywell",
+		"category":"Safety Glasses",
+		"pricebefore":"70.000",
+		"price":"58.000",
+		"thumb": "safetyglasses/Fogban",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/kacamata-painting-kacamata-blasting-safety-googles-honeywell-fogban",
+		"shopeelink" :"https://shopee.co.id/product/55199880/945769996/"
+	}
+	,
+	{
+		"id":29,
+		"product_name":"Helmet Safety MSA Push Key Kuning",
+		"description":"The Push-Key safety helmets suspension",
+		"brand":"MSA",
+		"category":"Safety Helmet",
+		"pricebefore":"130.000",
+		"price":"99.000",
+		"thumb": "safetyhelmet/msa kuning",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/helmet-safety-msa-push-key-kuning-10146459",
+		"shopeelink" :"https://shopee.co.id/product/55199880/6301461521/"
+	}
+	,
+	{
+		"id":30,
+		"product_name":"Helmet Safety MSA Push Key Orange",
+		"description":"The Push-Key safety helmets suspension",
+		"brand":"MSA",
+		"category":"Safety Helmet",
+		"pricebefore":"130.000",
+		"price":"105.000",
+		"thumb": "safetyhelmet/msa orange",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/helmet-safety-msa-push-key-orange-oren-jingga-10146460",
+		"shopeelink" :"https://shopee.co.id/product/55199880/6101460249/"
+	}
+	,
+	{
+		"id":31,
+		"product_name":"Helmet Safety MSA Push Key Putih",
+		"description":"The Push-Key safety helmets suspension",
+		"brand":"MSA",
+		"category":"Safety Helmet",
+		"pricebefore":"130.000",
+		"price":"105.000",
+		"thumb": "safetyhelmet/msa putih",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/helmet-safety-msa-push-key-white-color-v-gard-hdpe-helm-kerja-biru",
+		"shopeelink" :"https://shopee.co.id/product/55199880/6101460249/"
+	}
+	,
+	{
+		"id":32,
+		"product_name":"Shield Cap 220183",
+		"description":"UNSPSC:  30141603",
+		"brand":"Hypertherm",
+		"category":"Hypertherm Consumables",
+		"pricebefore":"300.000",
+		"price":"241.000",
+		"thumb": "hypertherm/220183",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/hypertherm-shield-cap-220183",
+		"shopeelink" :"https://shopee.co.id/product/55199880/9364335886/"
+	}
+	,
+	{
+		"id":33,
+		"product_name":"Electrode 220649 Mild Steel 130A",
+		"description":"Amperage :130 amps.",
+		"brand":"Hypertherm",
+		"category":"Hypertherm Consumables",
+		"pricebefore":"300.000",
+		"price":"278.000",
+		"thumb": "hypertherm/220649",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/electrode-hypertherm-220649-mild-steel-130a",
+		"shopeelink" :"https://shopee.co.id/product/55199880/9665020639/"
+	}
+	,
+	{
+		"id":34,
+		"product_name":"Bevel Nozzle 220646 130A",
+		"description":" Bevel Nozzle; 130A.",
+		"brand":"Hypertherm",
+		"category":"Hypertherm Consumables",
+		"pricebefore":"350.000",
+		"price":"347.000",
+		"thumb": "hypertherm/220646",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/bevel-nozzle-hypertherm-220646-130a",
+		"shopeelink" :"https://shopee.co.id/product/55199880/10710222706/"
+	}
+	,
+	{
+		"id":35,
+		"product_name":"Nozzle 220354 200 A",
+		"description":"200 Ampere",
+		"brand":"Hypertherm",
+		"category":"Hypertherm Consumables",
+		"pricebefore":"355.000",
+		"price":"323.000",
+		"thumb": "hypertherm/220354",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/nozzle-hypertherm-220354-200-a",
+		"shopeelink" :"https://shopee.co.id/product/55199880/3402268892/"
+	}
+	,
+	{
+		"id":36,
+		"product_name":"Electrode 220339 80 Amp ",
+		"description":"Torch Amperage: 80 A",
+		"brand":"Hypertherm",
+		"category":"Hypertherm Consumables",
+		"pricebefore":"470.000",
+		"price":"442.000",
+		"thumb": "hypertherm/220339",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/hypertherm-220339-80-amp-electrode",
+		"shopeelink" :"https://shopee.co.id/product/55199880/8464335064/"
+	}
+	,
+	{
+		"id":37,
+		"product_name":"Howard Leight EarMuff- Viking V1",
+		"description":"Viking series multiple-position earmuffs",
+		"brand":"Honeywell",
+		"category":"Safety Earmuff",
+		"pricebefore":"180.000",
+		"price":"169.000",
+		"thumb": "safetyearmuff/viking v1",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/howard-leight-earmuff-viking-v1-by-honeywell",
+		"shopeelink" :"https://shopee.co.id/product/55199880/932593944/"
+	}
+	,
+	{
+		"id":38,
+		"product_name":"Howard Leight EarMuff- Viking V3",
+		"description":"PATENTED AIR FLOW CONTROL  TECHNOLOGY",
+		"brand":"Honeywell",
+		"category":"Safety Earmuff",
+		"pricebefore":"250.000",
+		"price":"232.000",
+		"thumb": "safetyearmuff/viking v3",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/earmuff-howard-leight-viking-v3",
+		"shopeelink" :"https://shopee.co.id/product/55199880/932499502/"
+	}
+	,
+	{
+		"id":39,
+		"product_name":" Earmuff UNICO",
+		"description":"Safety Industrial Earmuff UNICO Pelindung Telinga",
+		"brand":"UNICO",
+		"category":"Safety Earmuff",
+		"pricebefore":"275.000",
+		"price":"253.000",
+		"thumb": "safetyearmuff/uco",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/safety-industrial-earmuff-unico-pelindung-telinga",
+		"shopeelink" :"https://shopee.co.id/product/55199880/9348964371/"
+	}
+	,
+	{
+		"id":40,
+		"product_name":"Howard Leight Earmuff- Leightning L2FHV",
+		"description":"Hi-Visibility L2FHV",
+		"brand":"Honeywell",
+		"category":"Safety Earmuff",
+		"pricebefore":"280.000",
+		"price":"270.000",
+		"thumb": "safetyearmuff/L2FHV",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/howard-leight-earmuff-leightning-l2fhv-by-honeywell-hi-visibility",
+		"shopeelink" :"https://shopee.co.id/product/55199880/932571536/"
+	}
+	,
+	{
+		"id":41,
+		"product_name":"Regulator Acetylene Gaugeless",
+		"description":"HARRIS 829-1.5-AC Max.Press 25Bar",
+		"brand":"Harris",
+		"category":"Regulator",
+		"pricebefore":"900.000",
+		"price":"808.000",
+		"thumb": "regulator/HRR82915AC",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/regulator-acetylene-gaugeless-harris-829-1-5-ac-max-press-25bar",
+		"shopeelink" :"https://shopee.co.id/product/55199880/5311260007/"
+	}
+	,
+	{
+		"id":42,
+		"product_name":"Gaugeless Oxygen Regulator",
+		"description":"HARRIS 829-8-OX Max.Press 230Bar",
+		"brand":"Harris",
+		"category":"Regulator",
+		"pricebefore":"900.000",
+		"price":"808.000",
+		"thumb": "regulator/HRR8298OX",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/gaugeless-oxygen-regulator-harris-829-8-ox-max-press-230bar",
+		"shopeelink" :"https://shopee.co.id/product/55199880/6311259471/"
+	}
+	,
+	{
+		"id":43,
+		"product_name":"Regulator Single Stage",
+		"description":"HARRIS 601 601D-10-OX 230 Bar Oxygen Light Duty",
+		"brand":"Harris",
+		"category":"Regulator",
+		"pricebefore":"900.000",
+		"price":"859.000",
+		"thumb": "regulator/HRR601D10OX",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/regulator-single-stage-harris-601-601d-10-ox-230-bar-oxygen-light-duty",
+		"shopeelink" :"https://shopee.co.id/product/55199880/6938809125/"
+	}
+	,
+	{
+		"id":44,
+		"product_name":"Regulator Pipeline Propane Gas One Gauge",
+		"description":" HARRIS 847-4-LP",
+		"brand":"Harris",
+		"category":"Regulator",
+		"pricebefore":"999.000",
+		"price":"900.000",
+		"thumb": "regulator/HRR8474LP",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/regulator-pipeline-harris-847-4-lp-propane-gas-one-gauge",
+		"shopeelink" :"https://shopee.co.id/product/55199880/4332106780/"
+	}
+	,
+	{
+		"id":45,
+		"product_name":"Twin Tails Lanyard Rope ",
+		"description":" Twin tails energy absorbing lanyard rope,32mm energy absorber",
+		"brand":"Harris",
+		"category":"Fall Protection",
+		"pricebefore":"999.000",
+		"price":"900.000",
+		"thumb": "regulator/HRR8474LP",
+		"tokpedlink" : "https://www.tokopedia.com/egreathardware/regulator-pipeline-harris-847-4-lp-propane-gas-one-gauge",
+		"shopeelink" :"https://shopee.co.id/product/55199880/4332106780/"
 	}
 	]		
+     
