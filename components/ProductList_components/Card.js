@@ -2,11 +2,10 @@ const Card = ({ id, stat, product_name, brand, category, description, pricebefor
   let caa=`https://api.whatsapp.com/send?phone=628117090123&text=**DO%20NOT%20MODIFY**%20Item%20Product:%20${product_name},%20Price:%20${price},%20Category:%20${category}`;
   let tokopediaLink=`${tokpedlink}`;
   let shopeeLink=`${shopeelink}`;
-  let badge = `className ="${stat}"`
 
   return (
     <div className='product-card'>
-      		<div badge>{stat}</div>
+      		<div className="badge">{stat}</div>
 
 		<div className="product-thumb">
       <img className="productimages" alt='products' src={`../productimages/${thumb}_1.jpg`} />
