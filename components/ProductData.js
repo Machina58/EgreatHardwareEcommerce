@@ -50,6 +50,7 @@ class Product extends React.Component {
           <div className="categories">
         <Category categoryChange={this.onCategoryChange}/>
         <Brand brandChange={this.onBrandChange}/>
+
         </div>  
         <div className='width100'>
           

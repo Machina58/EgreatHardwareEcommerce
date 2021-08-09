@@ -17,6 +17,8 @@ const Brand = ({ brandfield, brandChange }) => {
                 <option value="North">North</option>
                 <option value="Taiwan">Taiwan</option>
                 <option value="Weldas">Weldas</option>
+                <option value="MSA">MSA</option>
+                <option value="Saf-Eva">Saf-Eva</option>
                 <option value="Black And Decker">Black And Decker</option>
                 <option value="Hyundai">Hyundai</option>
                 <option value="Lincoln Electric">Lincoln Electric</option>
